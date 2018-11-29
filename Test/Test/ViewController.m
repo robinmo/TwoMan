@@ -16,9 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    ejosjsoijsv 
-        aihaoi
-    ehfaihl
+//    ejosjsoijsv 
+//        aihaoi
+//    ehfaihl
     // Do any additional setup after loading the view, typically from a nib.
 }
 
